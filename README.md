@@ -32,9 +32,7 @@ This Power BI project analyzes the **financial performance** of a healthcare cen
 
 ##  Dashboard Snapshot
 
-![Healthcare Dashboard](./Screenshot 2025-06-19 124301.png)
-
----
+![Healthcare-provider-dashboard](Screenshot 2025-06-19 124301.png)
 
 ##  Insights
 
